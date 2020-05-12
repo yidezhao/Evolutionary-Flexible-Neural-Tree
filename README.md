@@ -1,5 +1,5 @@
 # Evolutionary-Flexible-Neural-Tree
-This repository is the final project for ENM 531 Data-driven Modeling at University of Pennsylvania in Spring 2020. See report.pdf for the full final report. \
+This repository is the final project for ENM 531 Data-driven Modeling at University of Pennsylvania in Spring 2020. See report.pdf for the full final report. 
 
 report.pdf: Final report. \
 FlexTree.py: Main program where the tree structure is defined and the genetic algothrim is run. \
