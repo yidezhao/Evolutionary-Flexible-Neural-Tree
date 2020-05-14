@@ -1,0 +1,7 @@
+FN+4;[2,3,FN+5;[0,7,2,5,4, depth:2] 
+,6, depth:3] 
+
+Best Accuracy is 0.9300 
+Confusion Matrix:
+ [[100   6]
+ [  8  86]]
